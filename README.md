@@ -4,16 +4,20 @@ This project shows the implementation of Multinomial Naive Bayes Algorithm on 20
 
 ## MY IMPLEMENTATION ANALYSIS
 
-## SCREENSHOTS
+### CLASSIFICATION REPORT
 
 ![Screenshot1](screenshots/my_implementation_classification_report.png)
 
+### CONFUSION MATRIX
+ 
 ![Screenshot2](screenshots/my_implementation_confusion_matrix.png)
 
 ## INBUILT SKLEARN MULTINOMIAL NAIVE BAYES ANALYSIS
 
-## SCREENSHOTS
+### CLASSIFICATION REPORT
 
-![Screenshot1](screenshots/inbuilt_multinomial_naive_bayes_classification_report.png)
+![Screenshot3](screenshots/inbuilt_naive_bayes_classification_report.png)
 
-![Screenshot1](screenshots/inbuilt_multinomial_naive_bayes_confusion_matrix.png)
+### CONFUSION MATRIX
+
+![Screenshot4](screenshots/inbuilt_naive_bayes_confusion_matrix.png)
