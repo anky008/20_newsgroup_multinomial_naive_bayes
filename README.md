@@ -14,6 +14,6 @@ This project shows the implementation of Multinomial Naive Bayes Algorithm on 20
 
 ## SCREENSHOTS
 
-![Screenshot3](screenshots/inbuilt_multinomial_naive_bayes_classification_report.png)
+![Screenshot1](screenshots/inbuilt_multinomial_naive_bayes_classification_report.png)
 
-![Screenshot4](screenshots/inbuilt_multinomial_naive_bayes_confusion_matrix.png)
+![Screenshot1](screenshots/inbuilt_multinomial_naive_bayes_confusion_matrix.png)
